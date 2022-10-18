@@ -1,6 +1,5 @@
 import datetime as dt
-current_date = dt.date.today()
-
+current_date = dt.date.today
 print(current_date)
 
 date1=dt.date.today()
